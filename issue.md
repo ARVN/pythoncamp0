@@ -1,4 +1,4 @@
-### UBUNTU 里怎么搞定git SSHkey
+### UBUNTU 里笨办法搞定git SSHkey
 -  使用本地终端 输入命令： sudo apt-get install git ，安装git
 - 再者你已经创建了github帐号了，也知道哪里填SSHkey，只是还不知道key从哪里来，哪里来呢，本地终端告诉你：在我这里。
 - 使用本地终端的SSH 命令 ：ssh -T git@github.com 尝试呼叫（链接） github 的ssh服务器，被拒绝（太苦了它告诉你）：Permission denied (publickey).
