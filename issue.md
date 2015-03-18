@@ -10,3 +10,24 @@
 - 按官方指导在网页github添加刚才复制出的sshkey 保存后，回到本地终端使用：ssh -T git@github.com 登录，按提示输入 yes 即可成功
 
 - 参考：https://help.github.com/articles/generating-ssh-keys/
+ 
+ 
+###别名
+2015-3-18
+- 别名的问题，通过别名来指代库链接
+	 git remote add origin git@github.com:ARVN/omooc.py
+	 其中origin 是git@fichu.com:ARVN/omooc.py 这个库链接的别名/。
+- 别名可以任意制定，一个别名对应一个库
+	git remote add gitbook https;//git.gitbook.com/arvn/omooc.py.git
+	其中gitbook 是URL https://git.gitbook.com/arvn/omooc.py.git 的别名 
+	而 git remote add origin git@github.com:ARVN/omooc.py 
+	其中origin 是git@fichu.com:ARVN/omooc.py 这个库链接的别名/。
+- 别名在push/pull 时候减少输入的URL 的次数。
+- 明白别名代表URL库的意义后，也减少误解的发生——免得在每次push的时候都遇到 repo不存在的错误显示
+
+
+
+
+
+
+###  
