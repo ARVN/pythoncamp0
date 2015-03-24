@@ -4,7 +4,7 @@
 * [缘起](source/begin.md)
 * [part1](./source/part1/introduction)
    * [part1.1](./source/part1/一些基本介绍.md)
-       * 一些基本介绍
+   * 一些基本介绍
    * 开光大会心得
 * [part2](./source/part2/introduction)
    * [part2.2](./source/part2/1.md)
