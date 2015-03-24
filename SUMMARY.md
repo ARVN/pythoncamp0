@@ -3,7 +3,6 @@
 * [introduction](README.md)
 * [缘起](source/begin.md)
 * [part1](./source/part1/introduction)
-   * [part1.1](./source/part1/一些基本介绍.md)
    * [开光大会心得](./source/part1/开光大会心得.md)
    * [一些基本介绍](yi_xie_ji_ben_jie_shao.md)
    * [从基本的步骤着手](source/从基本的步骤着手.md)
