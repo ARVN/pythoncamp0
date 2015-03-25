@@ -1,7 +1,6 @@
 # Summary
 
 * [introduction](README.md)
-   * [test](source/part1/issue.md)
 * [开光”起义“](source/part1/开光大会心得.md)
 * 一些基本介绍
    * [从基本说起](source/part1/一些基本介绍.md)
