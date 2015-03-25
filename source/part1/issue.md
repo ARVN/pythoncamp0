@@ -27,6 +27,12 @@
 - 别名在push/pull 时候减少输入的URL 的次数。
 - 明白别名代表URL库的意义后，也减少误解的发生——免得在每次push的时候都遇到 repo不存在的错误显示
 
+## gitbook 发布目录显示不全
+- 已经通过git 发布过gitbook；但因为操作的本地库，只有READMEN.md 和 SUMMARY.md 两个文件。
+- 然后我在gitbook editor页面中添加了文件xxx.md 并完善进SUMMARY.md中
+- 发现gitbook editor 页面无法发布gitbook——在我已经添加进SUMMAR.md中的文件都无法显示。
+- 因为[xxx](xxx.md)路径都收录在目录 SUMMARY.md 中，我推测正常情况是应该出现在 图书[book- pythoncamp0](https://www.gitbook.com/book/arvn/pythoncamp0/details) “Table Of Contents”中，但是没有xxx.md的文件名显示
+- 个人book- pythoncamp0页面上只显示了[introduction](README.md）。
 
 
 
