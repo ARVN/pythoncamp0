@@ -2,12 +2,6 @@
 
 * [introduction](README.md)
 * [缘起](source/begin.md)
-* [part1](./source/part1/introduction)
-   * [开光大会心得](./source/part1/开光大会心得.md)
-   * [一些基本介绍](yi_xie_ji_ben_jie_shao.md)
-   * [从基本的步骤着手](source/从基本的步骤着手.md)
-   * [Markdown使用概要](./source/part1/Markdown使用概要.md)
-   * [问题汇总1](./source/part1/issue.md)
 * [part2](./source/part2/introduction)
    * [part2.2](./source/part2/1.md)
 * [结尾](./source/end.md)
