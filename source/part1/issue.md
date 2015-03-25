@@ -1,6 +1,7 @@
-##问题/备注清单
+##有多少折腾就有多少岔子
+你不一定碰到这些岔路，我反正没少折腾，它们陪了多少年啊，都是菜鸟时光啊，啊青春小鸟不回来，那就记录吧。。。
 
-### UBUNTU 里笨办法搞定git SSHkey
+### SSH key 啊你在哪里啊
 -  使用本地终端 输入命令： sudo apt-get install git ，安装git
 - 再者你已经创建了github帐号了，也知道哪里填SSHkey，只是还不知道key从哪里来，哪里来呢，本地终端告诉你：在我这里。
 - 使用本地终端的SSH 命令 ：ssh -T git@github.com 尝试呼叫（链接） github 的ssh服务器，被拒绝（太苦了它告诉你）：Permission denied (publickey).
@@ -14,7 +15,7 @@
 - 参考：https://help.github.com/articles/generating-ssh-keys/
  
  
-###别名
+###别名：origin 啊你又是什么啊
 2015-3-18
 - 别名的问题，通过别名来指代库链接
 	+ git remote add origin git@github.com:ARVN/omooc.py
@@ -27,7 +28,7 @@
 - 别名在push/pull 时候减少输入的URL 的次数。
 - 明白别名代表URL库的意义后，也减少误解的发生——免得在每次push的时候都遇到 repo不存在的错误显示
 
-## gitbook 发布目录显示不全
+## 啊gitbook我的目录发布不了
 2015-3-25
 - 已经通过git 发布过gitbook；但因为操作的本地库，只有READMEN.md 和 SUMMARY.md 两个文件。
 - 然后我在gitbook editor页面中添加了文件xxx.md 并完善进SUMMARY.md中
