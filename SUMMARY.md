@@ -1,7 +1,7 @@
 # Summary
 
 * [introduction](README.md)
-* [缘起](./source/begin.md)
+* [缘起](begin.md)
 * [Week1]
    * [一些基本介绍](./source/一些基本介绍.md)
    * [开光大会心得](./source/开光大会心得.md)
