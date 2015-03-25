@@ -2,7 +2,7 @@
 
 * [introduction](README.md)
    * [test](source/part1/issue.md)
-* [缘起](source/begin.md)
+* [从开光大会说起](source/part1/开光大会心得.md)
 * [Week1]
    * [开光大会心得](source/part1/开光大会心得.md)
    * [一些基本介绍](source/part1/一些基本介绍.md)
