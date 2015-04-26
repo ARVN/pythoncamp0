@@ -35,7 +35,13 @@
 - 发现gitbook editor 页面无法发布gitbook——在我已经添加进SUMMAR.md中的文件都无法显示。
 - 因为[xxx](xxx.md)路径都收录在目录 SUMMARY.md 中，我推测正常情况是应该出现在 图书[book- pythoncamp0](https://www.gitbook.com/book/arvn/pythoncamp0/details) “Table Of Contents”中，但是没有xxx.md的文件名显示
 - 个人book- pythoncamp0页面上只显示了[introduction](README.md）。
+-原来也是编译SUMMARY.md 的问题——在# summary 多了一个空格 。
+  -正确是#summary之下，无空格直接起一行
+```
+sample：
 
+#  summary
+[如有空格将引起错误](fault.md）
 
 
 
